@@ -1,4 +1,4 @@
-module github.com/mavea/proto
+module github.com/la-rana-ai/protobuf
 
 go 1.24.0
 
